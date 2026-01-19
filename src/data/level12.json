@@ -1,0 +1,3677 @@
+[
+  {
+    "ver": "[RED]",
+    "title": "gigadelic",
+    "diff": "SPH",
+    "bpm": "173",
+    "level": 12
+  },
+  {
+    "ver": "[7th]",
+    "title": "A",
+    "diff": "SPA",
+    "bpm": "93～191",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "AA",
+    "diff": "SPA",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "AA -rebuild-",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "ABSOLUTE EVIL",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "ACTØ",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Adularia",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Aftermath",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "AKASHIC BREAK",
+    "diff": "SPA",
+    "bpm": "205",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "ALBIDA",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "ALL OK!!",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "Almagest",
+    "diff": "SPA",
+    "bpm": "178",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "ALTERNATOR",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Always We Trust In You",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "ANCHOR",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Ancient Scapes",
+    "diff": "SPA",
+    "bpm": "178",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Angel's Ladder",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Antigravity",
+    "diff": "SPA",
+    "bpm": "222",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "AO-1",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Apocalypse",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Arca",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Arkadia",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Artist",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "ASIAN VIRTUAL REALITIES\n(MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "B.O.D.Y.",
+    "diff": "SPA",
+    "bpm": "157",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Bad Encryption",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "Bad Maniacs",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "BEAT PRISONER",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Beyond Evolution",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "BIGソムタム",
+    "diff": "SPA",
+    "bpm": "187",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "BIGWAVERS",
+    "diff": "SPA",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Binary Black Hole",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "BITTER CHOCOLATE STRIKER",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "BLACK or WHITE?",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "BLACK.by X-Cross Fade",
+    "diff": "SPA",
+    "bpm": "163",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "BLAZING_LAZER",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "BLUE MIRAGE",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Blue Spring Express",
+    "diff": "SPA",
+    "bpm": "172",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Boomy and The Boost",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "Broken",
+    "diff": "SPA",
+    "bpm": "148",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Broken Sword",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "CADENZA",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "Candy Galy",
+    "diff": "SPA",
+    "bpm": "184",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Carmina",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Carry Me Away",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Catch Our Fire!",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Caterpillar",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Chaotoxin",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Chrono Diver -PENDULUMs-",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "cinder",
+    "diff": "SPA",
+    "bpm": "216",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Close the World feat.a☆ru",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "CODE:1 [revision1.0.1]",
+    "diff": "SPA",
+    "bpm": "145",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "Colorful Cookie",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[6th]",
+    "title": "Colors(radio edit)",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "Concertino in Blue",
+    "diff": "SPA",
+    "bpm": "103～155",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Confiserie",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "COSMIC RAY",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "Cosy Catastrophe",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Pink]",
+    "title": "Cross Fire",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Cult Invitation",
+    "diff": "SPA",
+    "bpm": "164",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Dahlia",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "Dances with Snow Fairies",
+    "diff": "SPA",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Dans la nuit de l'éternité",
+    "diff": "SPA",
+    "bpm": "244",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "DARK LEGACY",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "dAuntl3ss",
+    "diff": "SPA",
+    "bpm": "166",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "DAY DREAM",
+    "diff": "SPA",
+    "bpm": "80～300",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "DEADHEAT",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Demon March",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Despair of ELFERIA",
+    "diff": "SPA",
+    "bpm": "205",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Devil's Gear",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "DIAMOND CROSSING",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "DIAVOLO",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "DOMINION",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Don't believe the hype",
+    "diff": "SPA",
+    "bpm": "210",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "DORNWALD ～Junge～",
+    "diff": "SPA",
+    "bpm": "169",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Double Dribble",
+    "diff": "SPA",
+    "bpm": "210",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Dr. Chemical & Killing Machine",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Drastic Dramatic",
+    "diff": "SPA",
+    "bpm": "166",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "DropZ-Line-",
+    "diff": "SPA",
+    "bpm": "50～400",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "DUAL STRIKER",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Dynamite",
+    "diff": "SPA",
+    "bpm": "100",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "EBONY & IVORY",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "ECHIDNA",
+    "diff": "SPA",
+    "bpm": "146",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "ELECTRIC MASSIVE DIVER",
+    "diff": "SPA",
+    "bpm": "178",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Elemental Creation",
+    "diff": "SPA",
+    "bpm": "212",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "EMERALDAS",
+    "diff": "SPA",
+    "bpm": "88～176",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Empire of Fury",
+    "diff": "SPA",
+    "bpm": "204",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "encounter",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "entelecheia",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "eRAseRmOToRpHAntOM",
+    "diff": "SPA",
+    "bpm": "135～270",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "EROICA",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "EVANESCENT",
+    "diff": "SPA",
+    "bpm": "127～165",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "Evans",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Everlasting Message",
+    "diff": "SPA",
+    "bpm": "230",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "EXUSIA",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "F",
+    "diff": "SPA",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "fallen leaves -IIDX edition-",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "FANTASTIC THREE",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "Fascination MAXX",
+    "diff": "SPA",
+    "bpm": "100～400",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "FEEDING FRENZY",
+    "diff": "SPA",
+    "bpm": "181",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Feel The Beat",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Fegrix",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "fffff",
+    "diff": "SPA",
+    "bpm": "138",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Fire Beat",
+    "diff": "SPA",
+    "bpm": "157～300",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "FIRE FIRE",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Flashes",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Flying Castle",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "frequent",
+    "diff": "SPA",
+    "bpm": "176",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Friction[!]Function",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "FUZIN RIZIN",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "G59",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "GAIA",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "GENE",
+    "diff": "SPA",
+    "bpm": "163",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "GHEL NAGARAJA",
+    "diff": "SPA",
+    "bpm": "162",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Ghost Pulse",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "gigadelic",
+    "diff": "SPA",
+    "bpm": "173",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "GiGaGaHell",
+    "diff": "SPA",
+    "bpm": "250",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Glitch N Ride",
+    "diff": "SPA",
+    "bpm": "30～300",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Go Ahead!!",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "Go Beyond!!",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Godspeed",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Grand Chariot",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Gravigazer",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "GRAVITON",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "GuNGNiR",
+    "diff": "SPA",
+    "bpm": "222",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "HADES",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "HAERETICUS",
+    "diff": "SPA",
+    "bpm": "208",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "HARD BRAIN",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Hat Surprise (Season 2)",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Highcharge Divolt",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Hollywood Galaxy",
+    "diff": "SPA",
+    "bpm": "186",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Hollywood Galaxy(DJ NAGAI Remix)",
+    "diff": "SPA",
+    "bpm": "186",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "I",
+    "diff": "SPA",
+    "bpm": "225",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "ICARUS",
+    "diff": "SPA",
+    "bpm": "126～251",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Ignis†Iræ",
+    "diff": "SPA",
+    "bpm": "188～191",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Illusionary Waterlily",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Immortal",
+    "diff": "SPA",
+    "bpm": "208",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "IMPLANTATION",
+    "diff": "SPA",
+    "bpm": "145",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Inferno of Fomalhaut",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Initiation",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "Inner Spirit -GIGA HiTECH MIX-",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "innocent revolver",
+    "diff": "SPA",
+    "bpm": "310",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "INSOMNIA",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Invitation from Mr.C",
+    "diff": "SPA",
+    "bpm": "230",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "invoker",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "JOMANDA",
+    "diff": "SPA",
+    "bpm": "90～300",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+    "diff": "SPA",
+    "bpm": "183",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "KAISER PHOENIX",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "KILL EACH OTHER",
+    "diff": "SPA",
+    "bpm": "162",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "kors k's How to make OTOGE CORE 「LONG」",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "L.F.O",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "LASER CRUSTER",
+    "diff": "SPA",
+    "bpm": "152",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "LASER CRUSTER (IGNITE REMIX)",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Last Dance",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Liberation",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "LIGHTNING STRIKES",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Little Star",
+    "diff": "SPA",
+    "bpm": "183",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "LIVE DRIVING!! feat. 花たん",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "LOCUS OF THE TRAVEL",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Lords Of The Roundtable",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "LOST TECHNOLOGIE",
+    "diff": "SPA",
+    "bpm": "157",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "LOUDER ROLLING THUNDER",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Ludus In Tenebris",
+    "diff": "SPA",
+    "bpm": "126",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "M4K3 1T B0UNC3",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Mächö Mönky",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Mare Nectaris",
+    "diff": "SPA",
+    "bpm": "256",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "MAXIMUM CHEAT GIRL",
+    "diff": "SPA",
+    "bpm": "210",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "MEGAERA",
+    "diff": "SPA",
+    "bpm": "206",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Megalara Garuda",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Meissa",
+    "diff": "SPA",
+    "bpm": "124～174",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "MENDES",
+    "diff": "SPA",
+    "bpm": "168",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Million Dollar",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Monopole.",
+    "diff": "SPA",
+    "bpm": "201",
+    "level": 12
+  },
+  {
+    "ver": "[9th]",
+    "title": "moon_child",
+    "diff": "SPA",
+    "bpm": "130～160",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "mosaic",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "n/a",
+    "diff": "SPA",
+    "bpm": "85～255",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "NEO GENERATOR SEVEN",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "neu",
+    "diff": "SPA",
+    "bpm": "199",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Nightmare before oversleep",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "NITROUS CANNON",
+    "diff": "SPA",
+    "bpm": "169",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "NNRT",
+    "diff": "SPA",
+    "bpm": "101～202",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "No Border",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "NZM",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "ONE AND ONLY",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "One for All",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[10th]",
+    "title": "One More Lovely",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[9th]",
+    "title": "one or eight",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "ONIGOROSHI",
+    "diff": "SPA",
+    "bpm": "400",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "onslaught",
+    "diff": "SPA",
+    "bpm": "202",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "oratio",
+    "diff": "SPA",
+    "bpm": "162",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "ORCA",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "OTENAMI Hurricane",
+    "diff": "SPA",
+    "bpm": "215",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Out of Control",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Painful Fate",
+    "diff": "SPA",
+    "bpm": "192",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Papilio ulysses",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "PARADISE LOST",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "PARANOiA ～HADES～",
+    "diff": "SPA",
+    "bpm": "75～300",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Pārvatī",
+    "diff": "SPA",
+    "bpm": "205",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Peaktime Booster",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "perditus†paradisus",
+    "diff": "SPA",
+    "bpm": "172",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Persephone",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Plan 8",
+    "diff": "SPA",
+    "bpm": "212",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+    "diff": "SPA",
+    "bpm": "178",
+    "level": 12
+  },
+  {
+    "ver": "[8th]",
+    "title": "PLEASE DON'T GO",
+    "diff": "SPA",
+    "bpm": "135",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Please Welcome Mr.C",
+    "diff": "SPA",
+    "bpm": "230",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "POSSESSION",
+    "diff": "SPA",
+    "bpm": "23～185",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Primitive Vibes",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Proof of the existence",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "PUNISHER",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Purple Perplex",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Quakes",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "quaver♪",
+    "diff": "SPA",
+    "bpm": "182～186",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "quell～the seventh slave～",
+    "diff": "SPA",
+    "bpm": "162",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "ra'am",
+    "diff": "SPA",
+    "bpm": "111～222",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "rage against usual",
+    "diff": "SPA",
+    "bpm": "152",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "RAGE feat.H14 of LEONAIR",
+    "diff": "SPA",
+    "bpm": "166",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "RAIN",
+    "diff": "SPA",
+    "bpm": "159",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Rampage",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Raspberry Railgun",
+    "diff": "SPA",
+    "bpm": "142",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Rave Cannon",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Rave*it!! Rave*it!!",
+    "diff": "SPA",
+    "bpm": "282",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Rave Patroller",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "Red. by Full Metal Jacket",
+    "diff": "SPA",
+    "bpm": "158",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Red. by Jack Trance",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "REFLEXES MANIPULATION",
+    "diff": "SPA",
+    "bpm": "130",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Reflux",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "refrain",
+    "diff": "SPA",
+    "bpm": "158",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "Remain",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Resonant",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "reunion",
+    "diff": "SPA",
+    "bpm": "184",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "RINИE",
+    "diff": "SPA",
+    "bpm": "198",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Ristaccia",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "rommmo",
+    "diff": "SPA",
+    "bpm": "208",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "ruin of opals",
+    "diff": "SPA",
+    "bpm": "220～390",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "sakura storm",
+    "diff": "SPA",
+    "bpm": "184",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "SAY BAY",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Say YEEEAHH",
+    "diff": "SPA",
+    "bpm": "135",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "SCREAM SQUAD",
+    "diff": "SPA",
+    "bpm": "220",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "SCREW // owo // SCREW",
+    "diff": "SPA",
+    "bpm": "114",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "Scripted Connection⇒ A mix",
+    "diff": "SPA",
+    "bpm": "151",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Shooting Fireball",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Sigmund",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Silver Bullet",
+    "diff": "SPA",
+    "bpm": "152～172",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Sinus Iridum",
+    "diff": "SPA",
+    "bpm": "128～256",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Sirius",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Skreaming for Salvation",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Sky High",
+    "diff": "SPA",
+    "bpm": "153",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Slipstream",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Smashing Wedge",
+    "diff": "SPA",
+    "bpm": "215",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "Snake Stick",
+    "diff": "SPA",
+    "bpm": "145",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Snakey Kung-fu",
+    "diff": "SPA",
+    "bpm": "156",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Sol Cosine Job 2",
+    "diff": "SPA",
+    "bpm": "190～200",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "SOLAR ECLIPSE",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "SOLID STATE SQUAD",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "diff": "SPA",
+    "bpm": "186",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Somnidiscotheque",
+    "diff": "SPA",
+    "bpm": "115",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Sounds Of Summer",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "SpaceLand☆TOYBOX",
+    "diff": "SPA",
+    "bpm": "172",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "SPECIAL SUMMER CAMPAIGN!",
+    "diff": "SPA",
+    "bpm": "168",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "Spirit of the Beast",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "STAY GOLD",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Steel Edge",
+    "diff": "SPA",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "StrayedCatz",
+    "diff": "SPA",
+    "bpm": "303",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "STULTI",
+    "diff": "SPA",
+    "bpm": "90～182",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Super Freak",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Super Rush",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Sword of Vengeance",
+    "diff": "SPA",
+    "bpm": "208",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Symmetry",
+    "diff": "SPA",
+    "bpm": "163",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "SYNC-ANTHEM",
+    "diff": "SPA",
+    "bpm": "160～166",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "TECHNO Style Essentials",
+    "diff": "SPA",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "TECHNOPHOBIA",
+    "diff": "SPA",
+    "bpm": "152",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "THE BRAVE MUST DIE",
+    "diff": "SPA",
+    "bpm": "215",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "The Chase",
+    "diff": "SPA",
+    "bpm": "142",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "The Clown of 24stairs",
+    "diff": "SPA",
+    "bpm": "204",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "THE DAY OF JUBILATIONS",
+    "diff": "SPA",
+    "bpm": "181",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "THE F∀UST",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "The Last Apocalypse",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "The Least 100sec",
+    "diff": "SPA",
+    "bpm": "200～264",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "The Limbo",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "THE PEERLESS UNDER HEAVEN",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "The Rebellion of Sequencer",
+    "diff": "SPA",
+    "bpm": "300",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "The Sampling Paradise",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Thor's Hammer",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "Thunderbolt",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "TIEFSEE",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Tiempo Loco",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Timepiece phase II",
+    "diff": "SPA",
+    "bpm": "287",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Timepiece phase II(CN Ver.)",
+    "diff": "SPA",
+    "bpm": "287",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "Todestrieb",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "TOGAKUSHI",
+    "diff": "SPA",
+    "bpm": "152",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "TOMAHAWK",
+    "diff": "SPA",
+    "bpm": "215",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "TOXIC VIBRATION",
+    "diff": "SPA",
+    "bpm": "197",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Trill auf G",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Triple Counter",
+    "diff": "SPA",
+    "bpm": "216",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "Triple Cross",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "tripping contact",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "TRIUMPH",
+    "diff": "SPA",
+    "bpm": "183",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "TROOPERS",
+    "diff": "SPA",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "True Blue",
+    "diff": "SPA",
+    "bpm": "164",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "TSAR BOMBA",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Unbelief",
+    "diff": "SPA",
+    "bpm": "135",
+    "level": 12
+  },
+  {
+    "ver": "[5th]",
+    "title": "V",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Valanga",
+    "diff": "SPA",
+    "bpm": "186",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "VANESSA",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Venom",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Verflucht",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Vermilion Carol",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Vinculum stellarum",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Visterhv",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "Vitrum",
+    "diff": "SPA",
+    "bpm": "146",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "VØID",
+    "diff": "SPA",
+    "bpm": "80～170",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "VOLAQUAS",
+    "diff": "SPA",
+    "bpm": "212",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "voltississimo",
+    "diff": "SPA",
+    "bpm": "225",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "VOX UP",
+    "diff": "SPA",
+    "bpm": "202",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "Vulnerability",
+    "diff": "SPA",
+    "bpm": "167",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "Watch Out Pt.2",
+    "diff": "SPA",
+    "bpm": "148",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "We're so Happy(P*Light Remix) IIDX ver.",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "Welcome to the Mosh Pit",
+    "diff": "SPA",
+    "bpm": "172",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "WHA",
+    "diff": "SPA",
+    "bpm": "108",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "WONDER WALKER",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "X",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Xerulean",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "Xperanza",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "YAKSHA",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "Zirkfied",
+    "diff": "SPA",
+    "bpm": "210",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "ZZ",
+    "diff": "SPA",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[Pink]",
+    "title": "1116",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "199024club -Re:BounceKiller-",
+    "diff": "SPA",
+    "bpm": "143",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "2 Beasts Unchained",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "24h Endurance Race",
+    "diff": "SPA",
+    "bpm": "184",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "255",
+    "diff": "SPA",
+    "bpm": "255",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "3y3s",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "3y3s (Long ver.)",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "紫陽花 -AZISAI-",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "アストライアの双皿",
+    "diff": "SPA",
+    "bpm": "173",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "天邪鬼",
+    "diff": "SPA",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[Pink]",
+    "title": "uәn",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "イザナミノナゲキ",
+    "diff": "SPA",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "栄冠のカンパネラ",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "駅猫のワルツ",
+    "diff": "SPA",
+    "bpm": "282",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "ΕΛΠΙΣ",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "焔極OVERKILL",
+    "diff": "SPA",
+    "bpm": "192",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "Ōu Legends",
+    "diff": "SPA",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "お菓子の王国",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "音楽",
+    "diff": "SPA",
+    "bpm": "210～360",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "Χ-DEN",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "カゴノトリ～弐式～",
+    "diff": "SPA",
+    "bpm": "140",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "神のシナリオ",
+    "diff": "SPA",
+    "bpm": "140",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "華麗なる大犬円舞曲",
+    "diff": "SPA",
+    "bpm": "60～147",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "鬼華-修羅の舞-",
+    "diff": "SPA",
+    "bpm": "211",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "キャトられ♥恋はモ～モク",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "キヤロラ衛星の軌跡",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "九尾狐夜行",
+    "diff": "SPA",
+    "bpm": "145",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "共鳴遊戯の華",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "閠槞彁の願い",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "狂イ咲ケ焔ノ華",
+    "diff": "SPA",
+    "bpm": "206",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "黒髪乱れし修羅となりて",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "恋歌疾風！かるたクイーンいろは",
+    "diff": "SPA",
+    "bpm": "120～168",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "恋する☆宇宙戦争っ!!",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "光風霽月",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "子供の落書き帳",
+    "diff": "SPA",
+    "bpm": "280",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "金野火織の金色提言",
+    "diff": "SPA",
+    "bpm": "225",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "最小三倍完全数",
+    "diff": "SPA",
+    "bpm": "220",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "逆月",
+    "diff": "SPA",
+    "bpm": "280",
+    "level": 12
+  },
+  {
+    "ver": "[8th]",
+    "title": "桜",
+    "diff": "SPA",
+    "bpm": "13～320",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "ジオメトリック∮ティーパーティー",
+    "diff": "SPA",
+    "bpm": "132～188",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "疾風迅雷",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "シムルグの目醒め",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "〆",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "灼熱 Pt.2 Long Train Running",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[RA]",
+    "title": "灼熱Beach Side Bunny",
+    "diff": "SPA",
+    "bpm": "153",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "灼熱Beach Side Bunny\n(かめりあ's \"Summertime D'n'B\" Remix)",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "終焔のClaudia",
+    "diff": "SPA",
+    "bpm": "90～185",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "終末を追う者",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "シュレーディンガーの猫",
+    "diff": "SPA",
+    "bpm": "187",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "情熱タンデムRUNAWAY",
+    "diff": "SPA",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "少年A",
+    "diff": "SPA",
+    "bpm": "90～192",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "少年は空を辿る",
+    "diff": "SPA",
+    "bpm": "140",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "深淵に捧ぐレクイエム",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "神謳 -RESONANCE-",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "真 地獄超特急 -HELL or HELL-",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "水鏡の異界",
+    "diff": "SPA",
+    "bpm": "168",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "スーパー戦湯ババンバーン",
+    "diff": "SPA",
+    "bpm": "187",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "世界の果てに約束の凱歌を -ReUnion-",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[10th]",
+    "title": "雪月花",
+    "diff": "SPA",
+    "bpm": "151",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "雪上断火",
+    "diff": "SPA",
+    "bpm": "105～180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "千年ノ理",
+    "diff": "SPA",
+    "bpm": "153",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "旋律のドグマ～Misérables～",
+    "diff": "SPA",
+    "bpm": "192",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "天泣",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "それは花火のような恋",
+    "diff": "SPA",
+    "bpm": "182",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "∀",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "抱きしめてモナムール",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "多極性ニューロンの崩壊による人間の末路",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "たまゆら",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "津軽雪",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "ディスコルディア",
+    "diff": "SPA",
+    "bpm": "180～280",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "天空の夜明け",
+    "diff": "SPA",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "電光",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "電人、暁に斃れる。",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "電腦都市",
+    "diff": "SPA",
+    "bpm": "240",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "ドゥサンコオデッセイ!!",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "東京神話",
+    "diff": "SPA",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "童話回廊",
+    "diff": "SPA",
+    "bpm": "262",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "轟け！恋のビーンボール！！",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "トリカゴノ鳳凰",
+    "diff": "SPA",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "IX",
+    "diff": "SPA",
+    "bpm": "198",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "嘆きの樹",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "儚キ戀ノ幻想譚",
+    "diff": "SPA",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "刃図羅",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "バッド・スイーツ、バッド・ドリーム",
+    "diff": "SPA",
+    "bpm": "220",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "ピアノ協奏曲第１番\"蠍火\"",
+    "diff": "SPA",
+    "bpm": "165～188",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "ピアノ協奏曲第１番\"蠍火\" (BlackY Remix)",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "ピアノ独奏無言歌 \"灰燼\"",
+    "diff": "SPA",
+    "bpm": "100～200",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "焱影",
+    "diff": "SPA",
+    "bpm": "136",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "卑弥呼",
+    "diff": "SPA",
+    "bpm": "83～185",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "表裏一体!?怪盗いいんちょの悩み♥",
+    "diff": "SPA",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "二人ノ廃城幽踊宴",
+    "diff": "SPA",
+    "bpm": "280～316",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "不沈艦CANDY",
+    "diff": "SPA",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "《PL|RAYER》",
+    "diff": "SPA",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "紅牡丹",
+    "diff": "SPA",
+    "bpm": "181",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "烽火連天の刃",
+    "diff": "SPA",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "-65℃",
+    "diff": "SPA",
+    "bpm": "186",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "diff": "SPA",
+    "bpm": "100",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "摩天楼",
+    "diff": "SPA",
+    "bpm": "172",
+    "level": 12
+  },
+  {
+    "ver": "[BIS]",
+    "title": "魔法のかくれんぼ",
+    "diff": "SPA",
+    "bpm": "178～208",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "未完成ノ蒸氣驅動乙女",
+    "diff": "SPA",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "禊",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "見習い天使と星降りの丘",
+    "diff": "SPA",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "魅惑のYUMMYスイーツ",
+    "diff": "SPA",
+    "bpm": "208",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "冥",
+    "diff": "SPA",
+    "bpm": "66～200",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "めいさいアイドル☆あいむちゃん♪",
+    "diff": "SPA",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "リリーゼと炎龍レーヴァテイン",
+    "diff": "SPA",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "恋愛=精度×認識力",
+    "diff": "SPA",
+    "bpm": "3～333",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "煉獄のエルフェリア",
+    "diff": "SPA",
+    "bpm": "183",
+    "level": 12
+  },
+  {
+    "ver": "[EPO]",
+    "title": "惑星鉄道",
+    "diff": "SPA",
+    "bpm": "10～166",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "海神",
+    "diff": "SPA",
+    "bpm": "159",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "ワルツ第17番 ト短調\"大犬のワルツ\"",
+    "diff": "SPA",
+    "bpm": "230～320",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "A MINSTREL ～ ver.short-scape ～",
+    "diff": "SPL",
+    "bpm": "114",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "AIR RAID FROM THA UNDAGROUND",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Amazing Mirage",
+    "diff": "SPL",
+    "bpm": "153",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Ancient Scapes",
+    "diff": "SPL",
+    "bpm": "178",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Anisakis-somatic mutation type \"Forza\"-",
+    "diff": "SPL",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "Arabian Rave Night",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "B4U(BEMANI FOR YOU MIX)",
+    "diff": "SPL",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "Be quiet",
+    "diff": "SPL",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "Beat Juggling Mix",
+    "diff": "SPL",
+    "bpm": "66～198",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Beat Radiance",
+    "diff": "SPL",
+    "bpm": "192",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Blue Rain",
+    "diff": "SPL",
+    "bpm": "144",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "BroGamer",
+    "diff": "SPL",
+    "bpm": "207",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "CaptivAte2～覚醒～",
+    "diff": "SPL",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "CHRONO DIVER -NORNIR-",
+    "diff": "SPL",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Close the World feat.a☆ru",
+    "diff": "SPL",
+    "bpm": "188",
+    "level": 12
+  },
+  {
+    "ver": "[CS]",
+    "title": "concon",
+    "diff": "SPL",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "CONTRACT",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "Cosmic Cat",
+    "diff": "SPL",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "diff": "SPL",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Do it!! Do it!!",
+    "diff": "SPL",
+    "bpm": "300",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "EBONY & IVORY",
+    "diff": "SPL",
+    "bpm": "113～170",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Elektrick U-Phoria",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Feel The Beat",
+    "diff": "SPL",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "four pieces of heaven",
+    "diff": "SPL",
+    "bpm": "125～195",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "Ganymede",
+    "diff": "SPL",
+    "bpm": "72～82",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "GRID KNIGHT",
+    "diff": "SPL",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "GuNGNiR",
+    "diff": "SPL",
+    "bpm": "222",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "ICARUS",
+    "diff": "SPL",
+    "bpm": "126～251",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "invoker",
+    "diff": "SPL",
+    "bpm": "195",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "KAISER PHOENIX",
+    "diff": "SPL",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "KAMAITACHI",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "Kung-fu Empire",
+    "diff": "SPL",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Like+it!",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "Little Little Princess",
+    "diff": "SPL",
+    "bpm": "180～212",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "M.D.Injection",
+    "diff": "SPL",
+    "bpm": "202",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "Marie Antoinette",
+    "diff": "SPL",
+    "bpm": "205～248",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "NEW GENERATION-もう、お前しか見えない-",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "Phoenix",
+    "diff": "SPL",
+    "bpm": "176",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "QUANTUM TELEPORTATION",
+    "diff": "SPL",
+    "bpm": "152",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "RED ZONE",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[SINO]",
+    "title": "SAMURAI-Scramble",
+    "diff": "SPL",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "Scripted Connection⇒ A mix",
+    "diff": "SPL",
+    "bpm": "151",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "SEITEN NO TERIYAKI",
+    "diff": "SPL",
+    "bpm": "137～273",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Sigmund",
+    "diff": "SPL",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "snow storm",
+    "diff": "SPL",
+    "bpm": "145",
+    "level": 12
+  },
+  {
+    "ver": "[SIR]",
+    "title": "SOLID STATE SQUAD",
+    "diff": "SPL",
+    "bpm": "155",
+    "level": 12
+  },
+  {
+    "ver": "[RED]",
+    "title": "spiral galaxy",
+    "diff": "SPL",
+    "bpm": "154",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "STARLIGHT DANCEHALL",
+    "diff": "SPL",
+    "bpm": "177",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "STEEL NEEDLE",
+    "diff": "SPL",
+    "bpm": "205",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "THANK YOU FOR PLAYING",
+    "diff": "SPL",
+    "bpm": "45～170",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "THE CANNONBALLER",
+    "diff": "SPL",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "THE DEEP STRIKER",
+    "diff": "SPL",
+    "bpm": "173",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "The Limbo",
+    "diff": "SPL",
+    "bpm": "200",
+    "level": 12
+  },
+  {
+    "ver": "[EMP]",
+    "title": "thunder HOUSE NATION Remix",
+    "diff": "SPL",
+    "bpm": "128",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Time to Air",
+    "diff": "SPL",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "TITANS RETURN",
+    "diff": "SPL",
+    "bpm": "97～194",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "TRANOID",
+    "diff": "SPL",
+    "bpm": "130～190",
+    "level": 12
+  },
+  {
+    "ver": "[SKY]",
+    "title": "Twelfth Style",
+    "diff": "SPL",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "Übertreffen",
+    "diff": "SPL",
+    "bpm": "174",
+    "level": 12
+  },
+  {
+    "ver": "[GOLD]",
+    "title": "VANESSA",
+    "diff": "SPL",
+    "bpm": "185",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "Verflucht",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "waxing and wanding",
+    "diff": "SPL",
+    "bpm": "191",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "Welcome",
+    "diff": "SPL",
+    "bpm": "170",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "Ypsilon",
+    "diff": "SPL",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[cop]",
+    "title": "ZEPHYRANTHES",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "27th style",
+    "diff": "SPL",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "ΕΛΠΙΣ",
+    "diff": "SPL",
+    "bpm": "175",
+    "level": 12
+  },
+  {
+    "ver": "[Root]",
+    "title": "お菓子の王国",
+    "diff": "SPL",
+    "bpm": "190",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "仮想空間の旅人たち",
+    "diff": "SPL",
+    "bpm": "151",
+    "level": 12
+  },
+  {
+    "ver": "[DD]",
+    "title": "華蝶風雪",
+    "diff": "SPL",
+    "bpm": "199",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "疾風迅雷",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[HERO]",
+    "title": "セピアの軌跡 ft. 天宮みや(少女フラクタル)",
+    "diff": "SPL",
+    "bpm": "158",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "千年ノ理",
+    "diff": "SPL",
+    "bpm": "153",
+    "level": 12
+  },
+  {
+    "ver": "[RESI]",
+    "title": "ちょえちょえまぎか",
+    "diff": "SPL",
+    "bpm": "180",
+    "level": 12
+  },
+  {
+    "ver": "[PEN]",
+    "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+    "diff": "SPL",
+    "bpm": "150",
+    "level": 12
+  },
+  {
+    "ver": "[CAN]",
+    "title": "東京神話",
+    "diff": "SPL",
+    "bpm": "196",
+    "level": 12
+  },
+  {
+    "ver": "[SPA]",
+    "title": "廿",
+    "diff": "SPL",
+    "bpm": "120～160",
+    "level": 12
+  },
+  {
+    "ver": "[Cast]",
+    "title": "ハイテックトキオ",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  },
+  {
+    "ver": "[DJT]",
+    "title": "華爛漫-Flowers-",
+    "diff": "SPL",
+    "bpm": "160",
+    "level": 12
+  },
+  {
+    "ver": "[LC]",
+    "title": "ユミル",
+    "diff": "SPL",
+    "bpm": "164",
+    "level": 12
+  },
+  {
+    "ver": "[tri]",
+    "title": "龍と少女とデコヒーレンス",
+    "diff": "SPL",
+    "bpm": "165",
+    "level": 12
+  }
+]
