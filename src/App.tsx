@@ -2,7 +2,6 @@ import { useState, useEffect, useRef } from 'react'
 import allSongs from './data/level12.json'
 import SongWheelDiv from './components/SongWheelDiv.tsx'
 import type { IIDXSong } from './components/SongWheelDiv.tsx'
-import WheelDiv from './components/WheelDiv.tsx'
 import gaugeOptions from './data/gauge.json'
 import './App.css'
 
@@ -44,7 +43,7 @@ function App() {
   
   const [gaugeList, setGaugeList] = useState<String[]>([]);
   const [gaugeWheel, setGaugeWheel] = useState<String[]>(["", "Gauge", ""]);
-  const [gaugeWeights, setGaugeWeights] = useState<number[]>([0, 2, 6, 1, 2, 3, 2, 1])
+  const gaugeWeights:number[] = [0, 2, 6, 1, 2, 3, 2, 1]
   const [prevGauge, setPrevGauge] = useState<String>("");
   const [currentGauge, setCurrentGauge] = useState<String>("Gauge");
   const [afterGauge, setAfterGauge] = useState<String>("");
