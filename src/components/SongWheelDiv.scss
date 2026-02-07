@@ -16,6 +16,11 @@ $item: 1 / $item-count;
     rgba(255, 255, 255, 0) 100%);
 }
 
+.wheelbox {
+    height: 40px;
+    border-width: 1.5px;
+}
+
 ul {
   transform: translateY(-20px);
   margin: 0;

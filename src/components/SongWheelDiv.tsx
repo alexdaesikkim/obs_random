@@ -12,7 +12,7 @@ function SongWheelDiv({songs, gauges, ulClass, animationEnd}: {songs: IIDXSong[]
     const fullList = songs.map((song, i) => {
         var itemClass:string = "item-"+i;
         return (
-            <li className={itemClass}>
+            <li className={"wheelbox " + itemClass}>
                 <div className={"level " + song.diff}>
                     {song.level}
                 </div>
