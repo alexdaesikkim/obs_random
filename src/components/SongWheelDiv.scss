@@ -18,7 +18,7 @@ $item: 1 / $item-count;
 
 .wheelbox {
     height: 40px;
-    border-width: 1.5px;
+    border-width: 1px;
 }
 
 ul {
@@ -115,6 +115,6 @@ ul {
     transform: translateY(-20px);
   }
   to {
-    transform: translateY((-43px)*97-20px);
+    transform: translateY((-42px)*97-20px);
   }
 }
