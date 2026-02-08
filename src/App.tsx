@@ -43,10 +43,12 @@ function App() {
   
   const [gaugeList, setGaugeList] = useState<String[]>([]);
   const [gaugeWheel, setGaugeWheel] = useState<String[]>(["", "Gauge", ""]);
-  const gaugeWeights:number[] = [0, 2, 8, 0, 0, 1, 2, 3]
+  const gaugeWeights:number[] = [0, 2, 30, 0, 0, 0, 12, 6]
   const [prevGauge, setPrevGauge] = useState<String>("");
   const [currentGauge, setCurrentGauge] = useState<String>("Gauge");
   const [afterGauge, setAfterGauge] = useState<String>("");
+
+  const [clearSpeedValue, setClearSpeedValue] = useState<number>(0);
 
   const clicked = useRef(false);
 
@@ -60,7 +62,6 @@ function App() {
   }, [])
 
   useEffect(()=> {
-    console.log(ulClassName === "none" && clicked.current)
     if(ulClassName === "none" && clicked.current){
         randomizeSongs();
         randomizeGauge();
@@ -89,12 +90,13 @@ function App() {
     wheelGaugeList.push(afterGauge);
     setSongWheelSongs(wheelSongList);
     setGaugeWheel(wheelGaugeList);
+    document.getElementById("clearedSongsText") !== null ?
+        setClearSpeedValue(document.getElementById("clearedSongsText")!.offsetWidth / 30) : setClearSpeedValue(0);
     setUlClassName("reset");
   }
 
   function changeClass () {
     setSwAni(true);
-    console.log(changeClass);
     clicked.current = true;
     setUlClassName("none");
   }
@@ -140,10 +142,13 @@ function App() {
     setPrevGauge(gWheel[97]);
     setAfterGauge(gWheel[99]);
     setCurrentGauge(gWheel[98]);
-    console.log(gWheel);
     setGaugeList(gList);
     setGaugeWheel(gWheel);
   }
+
+  let clearWidthSpeed = {
+    '--clearSpeed': clearSpeedValue.toString() + "s"
+  } as React.CSSProperties;
 
   return (
     <>
@@ -158,24 +163,44 @@ function App() {
         </div>
       </div>
       <div>
-          <button disabled={!resultAdded} onClick={() => changeClass()}>Roll</button>
-          <button disabled={swAni || resultAdded} onClick={() => updateSong("cleared")}>Cleared</button>
-          <button disabled={swAni || resultAdded} onClick={() => updateSong("failed")}>Failed</button>
-      </div>
-      <div style={{overflow: 'none'}}>
-        <div>
-            CLEARED SONGS: {   
-                selectedSongs.filter(i => i.clear === "cleared").map((item, j) => {
-                    return item.title + (selectedSongs.filter(i => i.clear === "cleared").length === (j+1) ? "" : " | ")
-                })
-            }
+        <div className="cleared">
+            <div className="clearedTitle">
+                {"CLEARS (" + selectedSongs.filter(i => i.clear === "cleared").length + "):"}
+            </div>
+            <div className={"clearedSongs"}>
+                <span id="clearedSongsText" className={document.getElementById("clearedSongsText") !== null ?
+                    (document.getElementById("clearedSongsText")!.offsetWidth >= 500 ? "songOverflow" : "") : ""} style={clearWidthSpeed}>
+                    {   
+                        selectedSongs.length > 0 ? 
+                            selectedSongs.filter(i => i.clear === "cleared").map((item, j) => {
+                                return item.title + " (" + item.diff + ") ";
+                            })
+                        :
+                        ""
+                    }
+                </span>
+            </div>
         </div>
-        <div>
-            FAILED SONGS: {
-                selectedSongs.filter(i => i.clear === "failed").map((item, j) => {
-                    return item.title + (selectedSongs.filter(i => i.clear === "failed").length === (j+1) ? "" : " | ");
-                })
-            }
+        <div className="actionButtons">
+            <button disabled={!resultAdded} onClick={() => changeClass()}>Roll</button>
+            <button disabled={swAni || resultAdded} onClick={() => updateSong("cleared")}>Cleared</button>
+            <button disabled={swAni || resultAdded} onClick={() => updateSong("failed")}>Failed</button>
+        </div>
+        <div className="failed">
+            <div className="failedSongs">
+                <span className="failedTitle">
+                    DEATH BY
+                </span>
+                {
+                    selectedSongs.filter(i => i.clear === "failed").map((item, j) => {
+                        return (
+                            <div className="failedSong">
+                                {item.title + " (" + item.diff + ") "}
+                            </div>
+                        )
+                    })
+                }
+            </div>
         </div>
       </div>
     </>

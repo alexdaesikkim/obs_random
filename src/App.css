@@ -5,15 +5,13 @@
   text-align: center;
 }
 
-wheelDiv {
-    display: inline;
-    float: left;
+.wheelDiv {
 }
 
-songWheel {
-    width: 500px;
+.songWheel {
+    width: 100%;
 }
-gaugeWheel {
+.gaugeWheel {
     width: 100px;
 }
 
@@ -21,6 +19,69 @@ gaugeWheel {
   a:nth-of-type(2) .logo {
     animation: logo-spin infinite 20s linear;
   }
+}
+
+.cleared {
+    display: flex;
+    text-align:left;
+    width: 800px;
+    font-size: 30px;
+}
+
+.clearedTitle {
+    float: left;
+    text-align: right;
+    width: 200px;
+    padding-right: 10px;
+}
+
+.clearedSongs {
+    float: right;
+    text-align: left;
+    width: 590px;
+    overflow: hidden;
+    position: relative;
+}
+
+.failed {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    left: 25%;
+    right: 25%;
+}
+
+.failedTitle {
+    font-size: 20px;
+    align-items: center;
+}
+
+.failedSongs {
+    float: right;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+}
+
+.songOverflow {
+    width: 590px;
+    animation: songOverflow var(--clearSpeed) linear infinite;
+    white-space: nowrap;
+    position: absolute;
+    padding-left: 100%;
+}
+
+@keyframes songOverflow {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-140%, 0);
+  }
+}
+.actionButtons {
 }
 
 .card {

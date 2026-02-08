@@ -33,12 +33,12 @@ ul {
     height: 40px;
     list-style: none; 
     overflow: hidden;
-    min-width: 0
+    min-width: 0;
   }
 }
 
 .animate {
-  animation: scrollUp 10s 0.15s forwards;
+  animation: scrollUp 8s 0.15s forwards;
 }
 
 .reset {
