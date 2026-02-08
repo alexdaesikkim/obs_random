@@ -172,7 +172,7 @@ function App() {
                     (document.getElementById("clearedSongsText")!.offsetWidth >= 500 ? "songOverflow" : "") : ""} style={clearWidthSpeed}>
                     {   
                         selectedSongs.length > 0 ? 
-                            selectedSongs.filter(i => i.clear === "cleared").map((item, j) => {
+                            selectedSongs.filter(i => i.clear === "cleared").map((item, _) => {
                                 return item.title + " (" + item.diff + ") ";
                             })
                         :
@@ -192,7 +192,7 @@ function App() {
                     DEATH BY
                 </span>
                 {
-                    selectedSongs.filter(i => i.clear === "failed").map((item, j) => {
+                    selectedSongs.filter(i => i.clear === "failed").map((item, _) => {
                         return (
                             <div className="failedSong">
                                 {item.title + " (" + item.diff + ") "}
