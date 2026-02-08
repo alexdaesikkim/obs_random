@@ -43,7 +43,7 @@ function App() {
   
   const [gaugeList, setGaugeList] = useState<String[]>([]);
   const [gaugeWheel, setGaugeWheel] = useState<String[]>(["", "Gauge", ""]);
-  const gaugeWeights:number[] = [0, 2, 6, 1, 2, 3, 2, 1]
+  const gaugeWeights:number[] = [0, 2, 8, 0, 0, 1, 2, 3]
   const [prevGauge, setPrevGauge] = useState<String>("");
   const [currentGauge, setCurrentGauge] = useState<String>("Gauge");
   const [afterGauge, setAfterGauge] = useState<String>("");
