@@ -90,8 +90,9 @@ function App() {
     wheelGaugeList.push(afterGauge);
     setSongWheelSongs(wheelSongList);
     setGaugeWheel(wheelGaugeList);
-    document.getElementById("clearedSongsText") !== null ?
-        setClearSpeedValue(document.getElementById("clearedSongsText")!.offsetWidth / 30) : setClearSpeedValue(0);
+    let speed:number = document.getElementById("clearedSongsText") !== null ? (document.getElementById("clearedSongsText")!.offsetWidth / 30) : 0;
+    if(speed < 10) speed = 10;
+    setClearSpeedValue(speed);
     setUlClassName("reset");
   }
 
