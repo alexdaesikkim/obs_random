@@ -91,7 +91,7 @@ function App() {
     setSongWheelSongs(wheelSongList);
     setGaugeWheel(wheelGaugeList);
     let speed:number = document.getElementById("clearedSongsText") !== null ? (document.getElementById("clearedSongsText")!.offsetWidth / 30) : 0;
-    if(speed < 10) speed = 10;
+    if(speed < 10) speed = 20;
     setClearSpeedValue(speed);
     setUlClassName("reset");
   }
