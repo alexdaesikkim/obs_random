@@ -168,8 +168,7 @@ function App() {
                 {"CLEARS (" + selectedSongs.filter(i => i.clear === "cleared").length + "):"}
             </div>
             <div className={"clearedSongs"}>
-                <span id="clearedSongsText" className={document.getElementById("clearedSongsText") !== null ?
-                    (document.getElementById("clearedSongsText")!.offsetWidth >= 500 ? "songOverflow" : "") : ""} style={clearWidthSpeed}>
+                <span id="clearedSongsText" className={selectedSongs.length > 1 ? "songOverflow" : ""} style={clearWidthSpeed}>
                     {   
                         selectedSongs.length > 0 ? 
                             selectedSongs.filter(i => i.clear === "cleared").map((item, _) => {
