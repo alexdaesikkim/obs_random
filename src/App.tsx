@@ -90,8 +90,8 @@ function App() {
     wheelGaugeList.push(afterGauge);
     setSongWheelSongs(wheelSongList);
     setGaugeWheel(wheelGaugeList);
-    let speed:number = document.getElementById("clearedSongsText") !== null ? (document.getElementById("clearedSongsText")!.offsetWidth / 30) : 0;
-    if(speed < 10) speed = 20;
+    let speed:number = document.getElementById("clearedSongsText") !== null ? (document.getElementById("clearedSongsText")!.offsetWidth / 30) : 40;
+    if(speed < 10) speed = 40;
     setClearSpeedValue(speed);
     setUlClassName("reset");
   }
@@ -169,7 +169,7 @@ function App() {
                 {"CLEARS (" + selectedSongs.filter(i => i.clear === "cleared").length + "):"}
             </div>
             <div className={"clearedSongs"}>
-                <span id="clearedSongsText" className={selectedSongs.length > 1 ? "songOverflow" : ""} style={clearWidthSpeed}>
+                <span id="clearedSongsText" className={selectedSongs.filter(i => i.clear === "cleared").length > 1 ? "songOverflow" : ""} style={clearWidthSpeed}>
                     {   
                         selectedSongs.length > 0 ? 
                             selectedSongs.filter(i => i.clear === "cleared").map((item, _) => {
@@ -200,6 +200,9 @@ function App() {
                         )
                     })
                 }
+                <div className="failedSong" style={{display: swAni ? 'none' : '' }}>
+                    {lastSelectedSong.title + " (" + lastSelectedSong.diff + ") "}
+                </div>
             </div>
         </div>
       </div>
